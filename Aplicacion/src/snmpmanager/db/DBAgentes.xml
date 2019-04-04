@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+--><dbagentes>
+    <Agente>
+        <comunidad>ASREjercicio</comunidad>
+        <contacto/>
+        <ip>192.168.15.133</ip>
+        <interfaces/>
+        <nombre>Linux (Ubuntu)</nombre>
+        <puerto>161</puerto>
+        <so/>
+        <ubicacion/>
+        <reinicio/>
+        <version>v2</version>
+    </Agente>
+    
+    <Agente>
+        <comunidad>ASREjercicio</comunidad>
+        <contacto/>
+        <ip>192.168.15.120</ip>
+        <interfaces/>
+        <nombre>DebianManuel</nombre>
+        <puerto>161</puerto>
+        <so/>
+        <ubicacion/>
+        <reinicio/>
+        <version>v2</version>
+    </Agente>
+<Agente><comunidad>ASREjercicio</comunidad><contacto/><ip>192.168.15.109</ip><interfaces/><nombre>Mac Erick</nombre><puerto>161</puerto><so/><ubicacion/><reinicio/><version>v2</version></Agente></dbagentes>
